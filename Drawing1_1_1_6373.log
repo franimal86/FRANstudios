@@ -1,0 +1,27 @@
+[ AutoCAD - Wed May 04 21:07:05 2016  ]----------------------------------------
+
+Customization file loaded successfully. Customization Group: ACAD
+Customization file loaded successfully. Customization Group: CUSTOM
+Customization file loaded successfully. Customization Group: AUTOCADWS
+Regenerating model.
+
+AutoCAD menu utilities loaded.; error: LOAD failed: "acadapq"
+*Cancel*
+
+Command: COMMANDLINE
+
+Command: SHEETSET
+
+Command: Layer
+
+Command: properties
+
+Command: adcenter
+ADCENTER 
+Command: EXTERNALREFERENCES
+
+Command: 
+Command: ; error: bad argument type: stringp nil
+
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
+
