@@ -25,3 +25,10 @@ Command: ; error: bad argument type: stringp nil
 
 Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: *Cancel*
 
+Command: Specify opposite corner or [Fence/WPolygon/CPolygon]: 
+Command: *Cancel*
+
+Command: *Cancel*
+
+Command: _quit 
+Command: 
